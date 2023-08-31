@@ -40,5 +40,7 @@ El simulador es capaz de leer archivos de texto plano con instrucciones ejecutab
 Para tener en cuenta:
 
 ** Solo se ejecuta un programa a la vez.
+
 ** Se implemento la memoria principal como un arreglo.
+
 ** Se implemento cada uno de los registro de la CPU a forma de variables.
